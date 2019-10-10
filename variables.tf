@@ -48,3 +48,4 @@ variable "package_include_paths" {
   default     = []
   description = "Additional files and directories which should be part of of the package .zip file within the local filesystem."
 }
+
